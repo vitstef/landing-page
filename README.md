@@ -25,3 +25,5 @@ You can easily manage all of the content on this Landing Page on Cosmic JS.  Fol
 3. Go to Your Bucket > Apps.
 4. Install the [Landing Page](https://cosmicjs.com/apps/landing-page).
 5. Deploy your Landing Page to the Cosmic App Server at Your Bucket > Web Hosting.
+
+----------- Added new line
